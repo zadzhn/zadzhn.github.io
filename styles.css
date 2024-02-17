@@ -1,0 +1,23 @@
+.title {
+    color: red;
+    font-family:monospace;
+}
+*{
+    background-color: aquamarine;
+}
+.img{
+    height: 50%;
+    border-radius: 5%;
+    object-fit: cover;
+    border-width: 22px;
+    border-color: pink;
+    border-style: solid;
+}
+.the_button{
+    color: white;
+    background-color: red;
+    border-style: none;
+    border-radius: 10px; 
+    font-family: cursive;
+    padding: 7px;
+}
